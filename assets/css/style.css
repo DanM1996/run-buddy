@@ -55,3 +55,61 @@ footer div {
 footer a {
     color: #024e76;
 }
+section{
+    padding: 60px;
+}
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+/* Hero Style End */
+
+/*Form Style Start */
+.hero-form {
+    color: #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}
+.hero-form h3 {
+    margin: 0px;
+    font-size: 24px;
+}
+.hero-form p {
+    margin: 5px 0 15px 0;
+}
+.form-input {
+  /*changes font size of everything in the form */
+  font-size: 16px; 
+  /* sets a border around the input fields */
+  border: solid 1px #024e76;
+  /* changes the input fields to block making them orderly */
+  display: block;
+  /* changes color of the text */
+  color: #024e76;
+  /* makes the input boxes larger */
+  padding: 7px 15px;
+  /*increases width of the input boxes to stretch across the form */
+  width: 100%;
+  /* pads the border between input fields */
+  margin-bottom: 15px;
+}
+/* spaces out the buttons so it's more readable */
+.hero-form label {
+    margin: 0 5px;
+}
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+}
