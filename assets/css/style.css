@@ -213,7 +213,8 @@ section{
     height: 400px;
 }
 .contact-info div {
-    width: 410px;
+    width: 410px; 
+    /* inline-block allows the text and interactive map to exist side by side in two columns */
     display: inline-block;
     vertical-align: top;
     text-align: left;
