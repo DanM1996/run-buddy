@@ -12,3 +12,5 @@ https://danm1996.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Dan Martinez
+
+### ©️2019 Run Buddy, Inc 
